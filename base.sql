@@ -1,3 +1,4 @@
+-- création d'une table
 INSERT INTO utilisateur(nom,prenom,email)
 -- Ajout d'un élément
 VALUES ('Lionge','Heritier','heritierlionge@yahoo.com');
